@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-hello jato...222
-=======
-hello jato...2222
->>>>>>> hot-fix
+
 hello jato...
 hello jato...
 hello jato...
